@@ -1,2 +1,12 @@
-# Imersão Alura
-Quiz feito na Imersão Dev da Alura em abril de 2025.
+# Imersão Dev Alura (Abril/2025)
+- Mini projeto interativo - Quiz feito na Imersão Dev da Alura
+- Quiz baseado no personagem Lestat de Lioncourt da Anne Rice
+- Acesse <a href="https://codepen.io/Gaia-the-encoder/pen/qEBwebp">aqui</a>
+
+# Tecnologias utilizadas
+- HTML
+- CSS
+- JavaScript
+
+# Autor
+- Feito com carinho por Gaia Gaijutis
